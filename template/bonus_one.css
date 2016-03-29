@@ -96,3 +96,20 @@ input:-moz-placeholder {
   line-height: 45px;
   text-align: center;
 }
+
+#resultbox {
+  width: 100%;
+  font-family: 'Helvetica', sans-serif;
+}
+
+.category {
+  color: #BFBFBC;
+  height: 20px;
+  display: block;
+}
+
+.item {
+  color: #333;
+  display: block;
+  cursor: pointer;
+}
